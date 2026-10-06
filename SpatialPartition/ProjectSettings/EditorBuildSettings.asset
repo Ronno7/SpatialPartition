@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Outbreak/Scenes/Outbreak.unity
+    guid: 5093f6bc30aa29a4b93db002709d5223
+  - enabled: 1
     path: Assets/SpatialPartition/Scenes/SpatialPartition.unity
     guid: cce78b30173356b4daf1ad09e3f3531f
   m_configObjects:
